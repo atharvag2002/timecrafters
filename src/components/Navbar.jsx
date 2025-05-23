@@ -54,7 +54,7 @@ const Navbar = () => {
           <input
             type="text"
             placeholder="DISCOVER"
-            className="focus:placeholder-transparent text-gray-800 placeholder-grey-800 rounded-full text-lg md:text-2xl w-32 h-12 md:w-48 md:h-16 text-center bg-greeen shadow-md focus:outline-none"
+            className="focus:placeholder-transparent text-white placeholder-grey-800 rounded-full text-lg md:text-2xl w-32 h-12 md:w-48 md:h-16 text-center bg-greeen shadow-md focus:outline-none"
           />
         </div>
       </div>
