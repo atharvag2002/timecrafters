@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/timecrafters/static/css/main.bc13a3bd.css",
-    "main.js": "/timecrafters/static/js/main.1f3f1111.js",
+    "main.css": "/timecrafters/static/css/main.914d5750.css",
+    "main.js": "/timecrafters/static/js/main.dd831fad.js",
     "static/js/453.da286eaf.chunk.js": "/timecrafters/static/js/453.da286eaf.chunk.js",
     "static/media/bg.jpg": "/timecrafters/static/media/bg.a034c1b33f423c538a7d.jpg",
     "static/media/watch.jpg": "/timecrafters/static/media/watch.6fbdd996b695ca0bd7c5.jpg",
@@ -11,12 +11,12 @@
     "static/media/repair.jpg": "/timecrafters/static/media/repair.869df9f8a37268fbef4d.jpg",
     "static/media/accessories.jpg": "/timecrafters/static/media/accessories.c2fff907b067cbc75bdc.jpg",
     "index.html": "/timecrafters/index.html",
-    "main.bc13a3bd.css.map": "/timecrafters/static/css/main.bc13a3bd.css.map",
-    "main.1f3f1111.js.map": "/timecrafters/static/js/main.1f3f1111.js.map",
+    "main.914d5750.css.map": "/timecrafters/static/css/main.914d5750.css.map",
+    "main.dd831fad.js.map": "/timecrafters/static/js/main.dd831fad.js.map",
     "453.da286eaf.chunk.js.map": "/timecrafters/static/js/453.da286eaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc13a3bd.css",
-    "static/js/main.1f3f1111.js"
+    "static/css/main.914d5750.css",
+    "static/js/main.dd831fad.js"
   ]
 }
